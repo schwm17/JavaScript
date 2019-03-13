@@ -1,2 +1,2 @@
-# JavaScript
-test ok okokok
+School
+Programmierübungen usw.
