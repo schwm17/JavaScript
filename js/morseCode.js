@@ -18,7 +18,7 @@ var charToMorseCode = function(x){
         if(x.toLowerCase() === chars[j]){
             console.log("Morse code for " + chars[j] + " is: " + morse[j]);
         }
-    } 
+    }
 }
 
 charToMorseCode("a");
